@@ -48,7 +48,7 @@ todo_app/
 * Select a task and click **Edit** or **Delete** to modify it
 * Use **Toggle Complete** to mark a task as done
 * Use the filter buttons to switch between All, Active, and Completed tasks
-* Use **Export CSV** to export all tasks to a `todos_export.csv` file
+* Use **Export CSV** to export all tasks to a `todos_export.csv` file.
 
 
 
